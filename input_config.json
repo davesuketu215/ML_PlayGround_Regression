@@ -1,0 +1,9 @@
+{
+    "DatasetRelPath":   "train_data_02.csv",
+    "Algorithm":        "LogisticRegression",
+    "LossFunction":     "LogLoss",
+    "Optimizer":        "GradientDescent",
+    "LearningRate":     0.01,
+    "MaxEpochs":        100,
+    "ClassificationMinThreshold": 0.5
+}
